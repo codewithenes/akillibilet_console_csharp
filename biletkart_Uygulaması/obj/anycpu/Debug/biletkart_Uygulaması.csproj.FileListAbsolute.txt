@@ -1,0 +1,4 @@
+/Users/apple/Projects/ornekcozumleri/biletkart_Uygulaması/bin/Debug/biletkart_Uygulaması.exe
+/Users/apple/Projects/ornekcozumleri/biletkart_Uygulaması/bin/Debug/biletkart_Uygulaması.pdb
+/Users/apple/Projects/ornekcozumleri/biletkart_Uygulaması/obj/anycpu/Debug/biletkart_Uygulaması.exe
+/Users/apple/Projects/ornekcozumleri/biletkart_Uygulaması/obj/anycpu/Debug/biletkart_Uygulaması.pdb
